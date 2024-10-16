@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hovevadenira.pages.dev/sitemap.xml
